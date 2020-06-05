@@ -11,7 +11,8 @@ GEM
     concurrent-ruby (1.1.4)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
-    ffi (1.10.0)
+    ffi (1.12.2)
+    ffi (1.12.2-x64-mingw32)
     forwardable-extended (2.6.0)
     html-pipeline (2.10.0)
       activesupport (>= 2)
@@ -51,7 +52,9 @@ GEM
     mini_portile2 (2.4.0)
     minitest (5.11.3)
     multipart-post (2.0.0)
-    nokogiri (1.10.1)
+    nokogiri (1.11.0.rc1)
+      mini_portile2 (~> 2.4.0)
+    nokogiri (1.11.0.rc1-x64-mingw32)
       mini_portile2 (~> 2.4.0)
     octokit (4.13.0)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -77,6 +80,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   jekyll (~> 3.2.1)
