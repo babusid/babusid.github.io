@@ -1,5 +1,6 @@
 <footer id="footer">
   <section>
+    <h2> Contact me! </h2>
     <form method="POST" action="https://api.slapform.com/{{site.email}}">
       <div class="field">
         <label for="name">Name</label>
@@ -18,28 +19,17 @@
       </ul>
       <input type="hidden" name="slap_redirect" value="{{site.url}}{{site.slapform_thankyou_page}}" /> <!-- slap_redirect allows you to set a custom redirect/thank you page -->
     </form>
-  </section>
-  <section class="split contact">
-    <section class="alt">
-      <h3>Location</h3>
-      <p>{{site.location}}</p>
+    <section>
+      <h2>Or find me on my social accounts!</h2>
     </section>
     <section>
-      <h3>Phone</h3>
-      <p><a href="tel:{{site.phone}}">{{site.phone}}</a></p>
-    </section>
-    <section>
-      <h3>Email</h3>
-      <p><a href="mailto:{{site.email}}">{{site.email}}</a></p>
-    </section>
-    <section>
-      <h3>Social</h3>
       <ul class="icons alt">
         <!--Social Platforms in footer-->
  <!--       <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
         <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li> -->
-        <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
-        <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+        <li><a href="https://instagram.com/{{site.instagram}}" class="button fit" rel="nofollow"><span class="label">Instagram</span></a></li>
+        <li><a href="https://github.com/{{site.github}}" class="button fit" rel="nofollow"><span class="label">GitHub</span></a></li>
+        <li><a href="https://linkedin.com/in/{{site.linkedin}}" class="button fit" rel="nofollow"><span class="label">LinkedIn</span></a></li>
       </ul>
     </section>
   </section>
