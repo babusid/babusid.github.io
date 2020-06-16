@@ -1,8 +1,8 @@
 ---
 layout: blogpage
-title: My Projects!
+title: My Thoughts on the World
 description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
-category: My Projects!
+category: Thoughts on the World
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02

@@ -1,7 +1,7 @@
 # Site
 title:              Sidharth Babu
 bio:                "Computer Engineering student, Hobbyist, and Aspiring Leader"
-description:        "Jekyll version of the Massively theme by HTML5UP"
+description:        "My personal blog and resume site where you can find any number of things!"
 locale:             en_US
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -15,10 +15,11 @@ twitter:            default
 facebook:           default
 instagram:          sidharth___babu
 github:             babusid
+linkedin:           sidharth-babu
 
 # personal
 location:           Nashville, TN
-phone:              615-944-5191
+phone:              
 email:              sidharth.n.babu@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
