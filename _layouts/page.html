@@ -33,30 +33,29 @@
 				</header>
 
 				<!-- Nav -->
-					<nav id="nav">
+				<nav id="nav">
 
-            {% include nav.html %}
+       		     {% include nav.html %}
 
-					</nav>
+				</nav>
 
 				<!-- Main -->
 				<div id="main">
-
+					
 					<article class="post featured">
 						<p>{{content}}</p>
 					</article>
+					
 
-					<!-- Footer -->
+					<!-- Blog Button Section -->
 						<footer>
-              <ul class="actions">
+              				<ul class="actions">
 								<li><a href="{{ "/blog/" | absolute_url }}" class="button">My Blog</a></li>
-              </ul>
+              				</ul>
 						</footer>
-					</div>
-
-				<!-- Footer -->
-        {% include foot.html %}
-
+				</div>
+					<!-- Footer -->
+				{% include foot.html %}
 			</div>
 
 			<!-- Scripts -->
