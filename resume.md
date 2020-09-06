@@ -60,6 +60,9 @@ Skills
 Work Experience
 ===============
 
+-   CEO and Lead Developer at [VoteBook](https://votebookelections.com/) 
+    (**June 2020 - Present**)
+
 -   Worked at the Robotix institute of Franklin TN as a Junior instructor
     (**March 2018- June 2018**)
 
