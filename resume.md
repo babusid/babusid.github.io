@@ -59,6 +59,8 @@ Skills
 
 Work Experience
 ===============
+-   Freelance React Native and Node.JS Developer 
+    (**September 2019 - Present**)
 
 -   CEO and Lead Developer at [VoteBook](https://votebookelections.com/) 
     (**June 2020 - Present**)
