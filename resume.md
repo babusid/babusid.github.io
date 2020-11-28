@@ -39,7 +39,7 @@ Skills
 
 -   Intermediate knowledge of Java
 
--   Some knowledge of Python
+-   Knowledge of Python
 
 -   Proficiency with Markdown and Git
 
@@ -51,9 +51,9 @@ Skills
 
 -   Team Player
 
--   I work best with timelines and schedules.
+-   Timeline-oriented
 
--   Always organized within tasks.
+-   Always organized within tasks
 
 -   Strong Public Speaker
 
@@ -65,13 +65,13 @@ Work Experience
 -   CEO and Lead Developer at [VoteBook](https://votebookelections.com/) 
     (**June 2020 - Present**)
 
--   Worked at the Robotix institute of Franklin TN as a Junior instructor
+-   Junior Instructor at the Robotix institute of Franklin
     (**March 2018- June 2018**)
 
 Internships
 -----------
 
--   Interned under Dr. Nilanjan Sarkar from **June 11, 2018 until July 31,2018**
+-   Interned under Dr. Nilanjan Sarkar from **June 11, 2018 until August 2019**
     and worked on projects mainly centered on 3D modeling and programming the
     advanced MIRO robotic system.
 
