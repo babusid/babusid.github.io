@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! Welcome to my page. My name is Sidharth Babu, and I'm a Computer Engineering student at the University of Texas at Austin. I'm passionate about intelligent and performant software engineering, applied data science, intelligent edge devices, and pretty much anything else that manages to spark my curiosity. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+As part of my campus community, I'm a part of the Longhorn Racing Solar team, where we build a Solar-Powered Racecar from scratch. You can learn more about it [here](https://www.longhornracing.org/solar-vehicle)!
 
-What else do you need?
+# Résumé
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Work in Progress.
